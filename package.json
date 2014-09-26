@@ -1,0 +1,9 @@
+{
+  "name": "example",
+  "version": "0.0.1",
+  "description": "test app",
+  "dependencies": {
+    "cheerio": "^0.17.0",
+    "express": "^4.9.4"
+  }
+}
